@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+PRD_implementation.md
+documentation-summary.md
+example-waybar-config.md
+./doc/
+tasks.md
 
 # Distribution / packaging
 .Python
