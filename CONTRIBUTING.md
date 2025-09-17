@@ -4,7 +4,7 @@ First off, thank you for considering contributing to the Waybar Hardware Info Mo
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [fredonbytes@example.com].
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [info@fredonbytes.cloud].
 
 ## How Can I Contribute?
 
@@ -12,7 +12,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
-Before creating bug reports, please check the [existing issues](https://github.com/yourusername/waybar-hardware-info/issues) as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible:
+Before creating bug reports, please check the [existing issues](https://github.com/patrik-fredon/waybar-hardware-info/issues) as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible:
 
 - **Use a clear and descriptive title** for the issue to identify the problem.
 - **Describe the exact steps which reproduce the problem** in as many details as possible.
